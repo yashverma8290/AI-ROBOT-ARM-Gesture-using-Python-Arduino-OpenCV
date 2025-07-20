@@ -98,4 +98,6 @@ Close Arduino IDE.
 Open PyCharm and run hand_to_arduino.py.
 Show your hand in front of the webcam.
 Watch the servos respond based on your finger gestures! 🎉
+```
+<img width="1919" height="970" alt="img1" src="https://github.com/user-attachments/assets/0a1e74ee-60c0-4466-ade8-e1c5786a6060" />
 
